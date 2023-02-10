@@ -1,0 +1,8 @@
+[submodule "pa1_shell"]
+	path = pa1_shell
+	url = https://github.com/rehohoho/50005_pa1_shell
+	branch = master
+[submodule "pa2_secureFTP"]
+	path = pa2_secureFTP
+	url = https://github.com/rehohoho/50005_pa2_secureFTP
+	branch = main
