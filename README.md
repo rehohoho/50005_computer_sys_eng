@@ -1,3 +1,3 @@
-# 50005_labs
-Repository of labs and example codes used in 50.005 Computer Systems and Engineering
+# 50005 Computer Systems and Engineering (OS, Networks, Security)
+Repository of example codes, labs, programming assignments used in 50.005 Computer Systems and Engineering
 
